@@ -1,3 +1,6 @@
+Url prod => https://henrique-aluraflix.vercel.app/
+db_prod  => https://henrique-aluraflix.herokuapp.com/categorias
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
